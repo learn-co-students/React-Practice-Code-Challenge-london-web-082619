@@ -1,4 +1,4 @@
-import React, { Component, Fragment } from 'react'
+import React, { Fragment } from 'react'
 import Sushi from "../components/Sushi"
 import MoreButton from '../components/MoreButton'
 import SETTINGS from "../settings"
